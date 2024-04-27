@@ -16,7 +16,7 @@ WORKDIR /home/static
 COPY --from=build /usr/src/app/build/ ./
 
 LABEL org.opencontainers.image.version="1.0.0" \
-      org.opencontainers.image.title="admin-docs" \
+      org.opencontainers.image.title="rules" \
       org.opencontainers.image.base.name="ghcr.io/etf2l/rules:latest" \
       org.opencontainers.image.description="ETF2L rules" \
       org.opencontainers.image.source="https://github.com/ETF2L/rules"

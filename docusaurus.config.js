@@ -21,7 +21,7 @@ module.exports = {
         {
           to: 'docs/general-rules',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'General Rules',
           position: 'left',
         },
       ],
