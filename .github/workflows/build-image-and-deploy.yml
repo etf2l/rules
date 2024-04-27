@@ -58,7 +58,7 @@ jobs:
           key: ${{ secrets.ETF2L_KEY }}
           port: ${{ secrets.ETF2L_PORT }}
           script: |
-            echo "Pull new image"
-            docker compose -f /home/${{ secrets.ETF2L_USER }}/docker/rules/docker-compose.yml pull
-            echo "Restart the container"
+            echo "Log into the ghcr.io registry"
+            docker login ghcr.io -u ${{ secrets.GH_LOGIN }} -p ${{ secrets.GH_ACCESS }}
+            echo "Pull and restart the container"
             docker compose -f /home/${{ secrets.ETF2L_USER }}/docker/rules/docker-compose.yml up -d
