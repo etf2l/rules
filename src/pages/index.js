@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <Layout
       title={`Welcome in the`}
-      description="Set of good tips letting you become a better league admin">
+      description="Ruleset for tournaments organised by us">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
