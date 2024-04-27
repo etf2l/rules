@@ -59,6 +59,6 @@ jobs:
           port: ${{ secrets.ETF2L_PORT }}
           script: |
             echo "Log into the ghcr.io registry"
-            docker login ghcr.io -u ${{ secrets.GH_LOGIN }} -p ${{ secrets.GH_ACCESS }}
+            echo ${{ secrets.GH_ACCESS }} | docker login ghcr.io -u ${{ secrets.GH_LOGIN }} --password-stdin
             echo "Pull and restart the container"
             docker compose -f /home/${{ secrets.ETF2L_USER }}/docker/rules/docker-compose.yml up -d
