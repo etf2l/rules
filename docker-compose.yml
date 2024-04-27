@@ -1,5 +1,5 @@
 services:
-  admin-docs:
+  rules:
     ports:
     - '127.0.0.1:11001:11001'
     restart: always
