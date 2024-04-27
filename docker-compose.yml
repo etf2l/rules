@@ -1,0 +1,11 @@
+services:
+  admin-docs:
+    ports:
+    - '127.0.0.1:11001:11001'
+    restart: always
+    image: 'ghcr.io/etf2l/rules:latest'
+    healthcheck:
+      test: wget --no-verbose --tries=1 --spider http://127.0.0.1:11001 || exit 1
+      interval: 15s
+      timeout: 5s
+      retries: 6
