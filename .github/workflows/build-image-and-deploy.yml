@@ -1,5 +1,5 @@
 name: Build Docker image, push it and deploy
-run-name: ${{ github.actor }} builds and deploys a Docker image for Admin Docs
+run-name: Build Docker image, push it and deploy
 on:
   workflow_dispatch:
   push:
