@@ -1,9 +1,13 @@
 name: Build Docker image, push it and deploy
 run-name: ${{ github.actor }} builds and deploys a Docker image for Admin Docs
 on:
+  workflow_dispatch:
   push:
     branches:
       - 'master'
+  schedule:
+    # Build the image regularly (each Friday)
+    - cron: '13 23 * * 5'
 
 env:
   REGISTRY: ghcr.io
