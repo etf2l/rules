@@ -19,9 +19,33 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/general-rules',
+          to: 'docs/general-1',
           activeBasePath: 'docs',
           label: 'General Rules',
+          position: 'left',
+        },
+        {
+          to: 'docs/6v6-1',
+          activeBasePath: 'docs',
+          label: '6v6 Rules',
+          position: 'left',
+        },
+        {
+          to: 'docs/9v9-1',
+          activeBasePath: 'docs',
+          label: '9v9 Rules',
+          position: 'left',
+        },
+        {
+          to: 'docs/server-configs',
+          activeBasePath: 'docs',
+          label: 'Server Configs',
+          position: 'left',
+        },
+        {
+          to: 'docs/latest-rules-and-config-updates',
+          activeBasePath: 'docs',
+          label: 'Latest Rules & Config Updates',
           position: 'left',
         },
       ],
@@ -33,8 +57,24 @@ module.exports = {
           title: 'Docs',
           items: [
             {
+              to: 'docs/general-1',
               label: 'General Rules',
-              to: 'docs/general-rules',
+            },
+            {
+              to: 'docs/6v6-1',
+              label: '6v6 Rules',
+            },
+            {
+              to: 'docs/9v9-1',
+              label: '9v9 Rules',
+            },
+            {
+              to: 'docs/server-configs',
+              label: 'Server Configs',
+            },
+            {
+              to: 'docs/latest-rules-and-config-updates',
+              label: 'Latest Rules & Config Updates',
             },
           ],
         },

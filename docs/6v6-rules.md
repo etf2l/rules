@@ -1,5 +1,5 @@
 ---
-title: 6v6 Rules
+title: AAAAAA
 ---
 
 ## Can I help?
