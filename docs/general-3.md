@@ -78,23 +78,24 @@ Each case will be dealt with individually and all factors will be taken into acc
 
 ## 3.7. Skill Contribution
 
-Definition:
+**Definition:**
+
 A team’s active line-up may only consist of a limited amount of higher skilled players that joined after the Provisional Tiers were published. A point system is used to determine this restriction. A player will be given one point for each tier of experience higher than the division of the team the player joins. Highlander and 6v6 experience will count as equivalent between gamemodes.
 
-A player’s experience will be determined in accordance with rule 2.7 Player Experience
+A player’s experience will be determined in accordance with rule [2.7 Player Experience](/docs/general-2#27-player-experience)
 
-Standard:
+**Standard:**
 
 - In 6v6 teams have a limit of 1 point.
 - In Highlander teams have a limit of 2 points.
 
-Breaking the rules:
+**Breaking the rules:**
 
 - Teams breaking the skill limit by +1 will receive a Minor Warning for the first offense. Further offenses will result in a default loss.
 
 - Teams breaking the skill limit by +2 or more will have their match results reviewed. The circumstances of the rulebreak will be considered when the deterimining punishment.
 
-Appeal:
+**Appeal:**
 Please contact League Admin Staff on [[ETF2L’s Discord server](https://discord.etf2l.org/)] if you need your case to be reviewed. The lengths of inactivity will be taken into consideration when making decisions.
 
 Note: Cups (pre-season cups, one-day cups, nations’ cup etc.) do not count towards skill contribution.

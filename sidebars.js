@@ -35,7 +35,8 @@ module.exports = {
       label: 'Other',
       items: [
         'server-configs',
-        'latest-rules-and-config-updates',
+        'latest-rules-updates',
+        'latest-config-updates'
       ]
     }
   ],
