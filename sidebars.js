@@ -3,6 +3,8 @@ module.exports = {
     {
       type: 'category',
       label: 'General Rules',
+      collapsible: true,
+      collapsed: false,
       items: [
         'general-1',
         'general-2',
@@ -17,6 +19,8 @@ module.exports = {
     {
       type: 'category',
       label: '6v6 Rules',
+      collapsible: true,
+      collapsed: false,
       items: [
         '6v6-1',
         '6v6-2',
@@ -25,6 +29,8 @@ module.exports = {
     {
       type: 'category',
       label: '9v9 Rules',
+      collapsible: true,
+      collapsed: false,
       items: [
         '9v9-1',
         '9v9-2',
@@ -33,6 +39,8 @@ module.exports = {
     {
       type: 'category',
       label: 'Other',
+      collapsible: true,
+      collapsed: false,
       items: [
         'server-configs',
         'latest-rules-updates',
