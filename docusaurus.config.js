@@ -105,6 +105,15 @@ module.exports = {
             },
           ],
         },
+        {
+          title: 'More',
+          items: [
+            {
+              label: 'GitHub',
+              href: 'https://github.com/etf2l/',
+            },
+          ],
+        },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} ETF2L Staff. Built with Docusaurus.`,
     },
