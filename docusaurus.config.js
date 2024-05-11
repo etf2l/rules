@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'ETF2L Rules',
-  tagline: 'Ruleset for tournaments organised by us',
+  tagline: 'Ruleset for tournaments organised by ETF2L',
   url: 'https://rules.etf2l.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
