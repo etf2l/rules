@@ -15,7 +15,7 @@ the [[extra pack](https://github.com/ETF2L/gameserver-configs/releases/latest/do
 
 \* *Configs will be executed automatically only for maps that are not played in both 6v6 and 9v9 in ETF2L at this time.*
 
-Alternatively, if you use [[TFTrue](https://github.com/AnAkkk/TFTrue)] (thanks to ![France](https://etf2l.org/images/flags/France.gif) AnAkkk), it will automatically download the latest configs and whitelists and execute them when appropriate.
+Alternatively, if you use [[TFTrue](https://github.com/AnAkkk/TFTrue)] (thanks to ![France](https://etf2l.org/images/flags/France.gif) [AnAkkk](https://etf2l.org/forum/user/1276/)), it will automatically download the latest configs and whitelists and execute them when appropriate.
 
 If you want to have a graphic overview of the whitelists, visit [[whitelist.tf](https://whitelist.tf/)]
 
