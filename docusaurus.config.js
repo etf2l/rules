@@ -110,7 +110,7 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/etf2l/',
+              href: 'https://github.com/etf2l/rules',
             },
           ],
         },
