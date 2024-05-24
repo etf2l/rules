@@ -21,15 +21,15 @@ With regard to an unusual bug, script or modification we advise players to use c
 - Examples of banned exploits:
   - [Reverse Quantum Crouch](https://github.com/ValveSoftware/Source-1-Games/issues/2195) or any similar methods that bug hitboxes, visually or non-visually
   - Bugging player model animations (e.g. entering civilian/reference poses)
-  - Bypassing the server sv_cheats setting to enable any in-game cheat command like showing wireframes, removing map fog, thirdperson mode etc. (punishable with a Cheating ban if used anywhere in TF2, see 6.4. Game Modifications)
+  - **Bypassing the server sv_cheats setting to enable any in-game cheat command like showing wireframes, removing map fog, thirdperson mode etc. (punishable with a Cheating ban if used anywhere in TF2, see 6.4. Game Modifications)**
   - Damaging/Killing players during setup time
-  - Abusing record;stop to see invisible Spies
-  - Pyro: Any methods that extend crit or invincibility times when using the Phlogistinator.
-  - Pyro: Methods that massively extend the range of any flame thrower fire particles via exploits, e.g. by tricking the game to calculate that you are currently in a high velocity movement state while actually being stuck in the air.
-  - Pyro: Storing the stomp ability with the Thermal Thruster.
+  - **Abusing record;stop to see invisible Spies**
+  - **Pyro: Any methods that extend crit or invincibility times when using the Phlogistinator.**
+  - **Pyro: Methods that massively extend the range of any flame thrower fire particles via exploits, e.g. by tricking the game to calculate that you are currently in a high velocity movement state while actually being stuck in the air.**
+  - **Pyro: Storing the stomp ability with the Thermal Thruster.**
   - Engineer: Exploit that allows you to double hit players, buildings and sappers with your melee weapon in a single attack.
   - Sniper: Crouch Sniper Peeking / Cornersniping
-  - Sniper: Any method that allows for a faster re-zoom in order to use the time gained during the reload animation to negate the headshot delay, allowing you to hit headshots as soon as the weapon is able to fire. As an example: cl_autorezoom 1 and jumping is allowed; however it is not allowed to take advantage of it in an impactful way via a combination with special movement (e.g. c-tapping) or the usage of map terrain (e.g. doorways or low ceilings or higher elevated areas/props) with the intent to negate the headshot delay.
+  - **Sniper: Any method that allows for a faster re-zoom in order to use the time gained during the reload animation to negate the headshot delay, allowing you to hit headshots as soon as the weapon is able to fire. As an example: cl_autorezoom 1 and jumping is allowed; however it is not allowed to take advantage of it in an impactful way via a combination with special movement (e.g. c-tapping) or the usage of map terrain (e.g. doorways or low ceilings or higher elevated areas/props) with the intent to negate the headshot delay.**
   - Using weapons with bugged names to exceed their intended symbol limit and being able to hide crucial information in most HUDs.
 
 ## 6.1.1 Abusing Map Bugs is not allowed
@@ -111,14 +111,14 @@ Modifications that give the player a massive gameplay advantage are strictly for
 Players who are caught using banned modifications in ETF2L officials, scrims, PUGs, officials of other leagues and any other matches in a competitive-like setting will be penalised on a case-by-case basis depending on intent and impact of the modification. Possible penalties may include team and player warnings, forfeiting of one or more match rounds or default losses and / or league bans for the offending player, with some modifications leading to cheating bans even if used outside of TF2 competitive-like settings (see below).
 
 - Examples of banned modifications:
-  - Box/Square shadows
-  - Surface texture modifications that function like a wallhack
-  - Software sound enhancements or audio/sound file modifications or edits using surface properties that make gameplay situations far easier to detect (e.g. increasing the volume for Spy cloaks; Medic’s Ubercharge sound)*
-  - Transparent Sniper scope
-  - Removing map props (e.g. the rocks on Product), or making them transparent intentionally
-  - Making footstep sounds more audible at all times („metal footsteps“)
+  - **Box/Square shadows**
+  - **Surface texture modifications that function like a wallhack**
+  - **Software sound enhancements or audio/sound file modifications or edits using surface properties that make gameplay situations far easier to detect (e.g. increasing the volume for Spy cloaks; Medic’s Ubercharge sound)**
+  - **Transparent Sniper scope**
+  - **Removing map props (e.g. the rocks on Product), or making them transparent intentionally**
+  - **Making footstep sounds more audible at all times („metal footsteps“)**
   - Oversized healing particles
-  - Switching sound files for rocket or grenade launchers or other weapons (e.g. using the stock Rocket Launcher’s sound with the Original or vice versa) is allowed as long as the modification has no impact on detecting other players or gameplay situations. We strongly recommend asking staff before replacing any sound files with custom sounds.
+  - **Switching sound files for rocket or grenade launchers or other weapons (e.g. using the stock Rocket Launcher’s sound with the Original or vice versa) is allowed as long as the modification has no impact on detecting other players or gameplay situations. We strongly recommend asking staff before replacing any sound files with custom sounds.**
 
 Modifications marked in bold will be punished with cheating bans if used anywhere in TF2 (see [6.2.](#62-cheats-are-not-allowed)). We advise all players to remove any of the modifications above from their game files in order to prevent reports and misunderstandings, even if the intent is to only use them outside of competitive TF2.
 
