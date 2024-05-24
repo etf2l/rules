@@ -75,7 +75,7 @@ Players who have been permanently banned from ETF2L for cheating may appeal thei
 - There have not been any substantial behavior reports made against the player after their ban.
 - The ban did not happen after a previous appeal was already successful.
 
-In order to file an appeal, please contact our admin staff on Discord. Decisions will be made at admin discretion.
+In order to file an appeal, please contact our admin staff on [[Discord](https://discord.etf2l.org/)]. Decisions will be made at admin discretion.
 
 ---
 
@@ -83,7 +83,7 @@ In order to file an appeal, please contact our admin staff on Discord. Decisions
 
 Scripts that allow a player to perform an action in-game that they would not be able to execute without the script, or scripts that purposefully disrupt the player’s hitbox are banned. Scripts that freeze or glitch the player model (e.g. in mid-air to be less predictable) to make it harder to hit are also banned.
 
-Usage of banned scripts will be penalized on a case-by-case basis, depending on the intent of the script and the impact on the match. Possible penalties may include team warnings, forfeiting of one or more match rounds or default losses, and / or league bans for the offending player.
+Usage of banned scripts will be penalized on a case-by-case basis, depending on the intent of the script and the impact on the match. Possible penalties may include team warnings, forfeiting of one or more match rounds or default losses, **and / or league bans for the offending player**.
 
 - Examples of banned scripts:
   - Charge-turn script (this includes the use of other peripherals to achieve sharper turn angles)
@@ -101,7 +101,7 @@ Usage of banned scripts will be penalized on a case-by-case basis, depending on 
   - Loadout changing scripts and quick respawn scripts
   - Viewmodel and crosshair switch scripts
 
-If you are unsure about the legality of a particular script, please contact an admin on [ETF2L’s Discord server] to clarify the situation before using said script in an official match.
+If you are unsure about the legality of a particular script, please contact an admin on [[ETF2L’s Discord server](https://discord.etf2l.org/)] to clarify the situation before using said script in an official match.
 
 ---
 
@@ -119,7 +119,8 @@ Players who are caught using banned modifications in ETF2L officials, scrims, PU
   - Making footstep sounds more audible at all times („metal footsteps“)
   - Oversized healing particles
   - Switching sound files for rocket or grenade launchers or other weapons (e.g. using the stock Rocket Launcher’s sound with the Original or vice versa) is allowed as long as the modification has no impact on detecting other players or gameplay situations. We strongly recommend asking staff before replacing any sound files with custom sounds.
-  - Modifications marked in bold will be punished with cheating bans if used anywhere in TF2 (see [6.2.](#62-cheats-are-not-allowed)). We advise all players to remove any of the modifications above from their game files in order to prevent reports and misunderstandings, even if the intent is to only use them outside of competitive TF2.
+
+Modifications marked in bold will be punished with cheating bans if used anywhere in TF2 (see [6.2.](#62-cheats-are-not-allowed)). We advise all players to remove any of the modifications above from their game files in order to prevent reports and misunderstandings, even if the intent is to only use them outside of competitive TF2.
 
 - Examples of allowed modifications:
   - Custom HUDs
