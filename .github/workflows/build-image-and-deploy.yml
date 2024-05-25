@@ -47,7 +47,7 @@ jobs:
             ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest
           labels: ${{ steps.docker_meta.outputs.labels }}
   deploy:
-    runs-on: ubuntu-24.04
+    runs-on: [self-hosted, linux, x64]
     needs: [build]
     steps:
       - name: Deploy to ETF2L
