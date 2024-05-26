@@ -1,9 +1,10 @@
 ---
-title: Latest rules updates
+title: Latest Rule Changes
 ---
-## Rules Updates
 
-All recent Config Updates will be documented on this page.
+## Rule Changes
+
+All recent rule changes will be documented on this page.
 
 ---
 

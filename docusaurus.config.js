@@ -45,13 +45,13 @@ module.exports = {
         {
           to: 'docs/latest-rules-updates',
           activeBasePath: 'docs',
-          label: 'Latest Rules Updates',
+          label: 'Latest Rule Changes',
           position: 'right',
         },
         {
           to: 'docs/latest-config-updates',
           activeBasePath: 'docs',
-          label: 'Latest Config Updates',
+          label: 'Latest Config Changes',
           position: 'right',
         },
       ],
@@ -80,11 +80,11 @@ module.exports = {
             },
             {
               to: 'docs/latest-rules-updates',
-              label: 'Latest Rules Updates',
+              label: 'Latest Rule Changes',
             },
             {
               to: 'docs/latest-config-updates',
-              label: 'Latest Config Updates',
+              label: 'Latest Config Changes',
             },
           ],
         },

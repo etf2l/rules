@@ -1,5 +1,5 @@
 ---
-title: Latest config updates
+title: Latest config changes
 ---
 
 ## Config Updates
