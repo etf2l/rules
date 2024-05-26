@@ -1,5 +1,5 @@
 ---
-title: Latest config changes
+title: Latest Config Changes
 ---
 
 ## Config Updates
@@ -14,6 +14,24 @@ All recent Config Updates will be documented on this page.
 ### Config Changes Prior 2022
 
 Updates prior the use of our [GitHub](https://github.com/ETF2L/gameserver-configs/) can be viewed [here](https://etf2l.org/latest-rules-configs-updates/).
+
+---
+
+## 1.0.16 (25.05.2024)
+
+- update extra configs
+- update echo messages for configs being loaded
+
+[GitHub](https://github.com/ETF2L/gameserver-configs/releases/tag/1.0.16)
+
+---
+
+## 1.0.15 (25.05.2024)
+
+- add pass time configs
+- update whitelists
+
+[GitHub](https://github.com/ETF2L/gameserver-configs/releases/tag/1.0.15)
 
 ---
 
@@ -67,6 +85,8 @@ Changes:
 - add Throwback Cup configs
 - update whitelists
 
+[GitHub](https://github.com/ETF2L/gameserver-configs/releases/tag/1.0.10)
+
 ---
 
 ## 1.0.9 (14.08.2023)
@@ -77,6 +97,8 @@ Changes:
 - `sm_deterministic_fall_damage` from `0` to `1`
 - updated whitelists for August
 
+[GitHub](https://github.com/ETF2L/gameserver-configs/releases/tag/1.0.9)
+
 ---
 
 ## 1.0.8 (30.06.2023)
@@ -85,11 +107,15 @@ Changes:
 
 - update whitelists in order to align with [6v6 Summer 2023](https://etf2l.org/2023/06/30/6v6-summer-2023-provisional-tiers-map-pool-whitelist-updates/)
 
+[GitHub](https://github.com/ETF2L/gameserver-configs/releases/tag/1.0.8)
+
 ---
 
 ## 1.0.7 (25.05.2023)
 
 This release resolves issues with whitelists not loading properly.
+
+[GitHub](https://github.com/ETF2L/gameserver-configs/releases/tag/1.0.7)
 
 ---
 
@@ -103,6 +129,8 @@ Changes:
 - add `tf_fall_damage_disablespread 1` and change `sm_deterministic_fall_damage` from `1` to `0`
 - change `sm_override_pipe_size` from `4.0` to `0`
 
+[GitHub](https://github.com/ETF2L/gameserver-configs/releases/tag/1.0.6)
+
 ---
 
 ## 1.0.5 (22.06.2022)
@@ -111,11 +139,15 @@ Changes:
 
 - Added `tv_maxrate 0` in `etf2l_custom.cfg`.
 
+[GitHub](https://github.com/ETF2L/gameserver-configs/releases/tag/1.0.5)
+
 ---
 
 ## 1.0.4 (28.05.2022)
 
 - Applied [6v6 Season 42 preseason changes](https://etf2l.org/2022/06/01/6v6-season-42-config-changes/) into the main 6v6 5CP config.
+
+[GitHub](https://github.com/ETF2L/gameserver-configs/releases/tag/1.0.4)
 
 ---
 
@@ -128,6 +160,8 @@ Changes:
 - add `round_time_override -1`. `mp_timelimit_improved 0`, `mp_timelimit_improved_visibility 0` and `sm_improvedtimers_chat 1` to all other gamemodes and types of maps,
 - set a proper comment character in the configs.
 
+[GitHub](https://github.com/ETF2L/gameserver-configs/releases/tag/1.0.3)
+
 ---
 
 ## 1.0.2 (11.01.2022)
@@ -137,7 +171,7 @@ Changes:
 - fix: change `sm_grounded_rj_resistance` to `0`
 Thanks to Bodolaz for catching this change which was made by mistake.
 
-Full Changelog: 1.0.1...1.0.2
+[GitHub](https://github.com/ETF2L/gameserver-configs/releases/tag/1.0.2)
 
 ---
 
@@ -151,6 +185,8 @@ Changes:
 - feat: add current map configs
 - refactor: change `sm_inhibit_extendfreeze` to `1`
 
+[GitHub](https://github.com/ETF2L/gameserver-configs/releases/tag/1.0.1)
+
 ---
 
 ## 1.0.0 (10.01.2022)
@@ -160,3 +196,5 @@ Initial GitHub release.
 - feat: add change `sm_fix_post_pause_state 1`
 - feat: add `sm_empty_active_ubercharges_when_dropped 1`
 - refactor: change `sm_override_pipe_size` to `4.0`
+
+[GitHub](https://github.com/ETF2L/gameserver-configs/releases/tag/1.0.0)
