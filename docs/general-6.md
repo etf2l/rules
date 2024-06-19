@@ -137,7 +137,7 @@ Modifications marked in bold will be punished with cheating bans if used anywher
 
 ## 6.5. VAC Bans
 
-As of March 15, 2012, any player with a VAC ban on the Source engine will be banned VAC ban on the Source engine will be banned for two years. This rule also applies to any alternate accounts. Players with VAC bans that do not apply to Team Fortress 2 will not be affected.
+As of March 15, 2012, any player with a VAC ban on the Source engine will be banned for two years. This rule also applies to any alternate accounts. Players with VAC bans that do not apply to Team Fortress 2 will not be affected.
 Multiple VACs on the same Steam account will result in a two year ban or a ban extension until two years after the most recent VAC ban, unless ETF2L receives proof which VAC affects (or does not affect) Team Fortress 2.
 Please contact the Anti-Cheat team on [[ETF2L’s Discord server](https://discord.etf2l.org/)] to clarify the situation as soon as possible if you want to avoid a potential league ban.
 
