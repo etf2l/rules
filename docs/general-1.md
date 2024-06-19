@@ -13,7 +13,7 @@ All players participating in matches must be registered on ETF2L. Using a player
 
 ### 1.1.2. Any Form of Harassment/Racism/Toxicity/Etc is Punishable
 
-ETF2L does not support any form of harassment of its players. People harassing others based on ethnicity, culture, religion or similar will get punished for their actions. We understand that things can get heated within a competitive game and will handle cases with this in mind. We do ask people to keep it civil.
+ETF2L does not support any form of harassment of its players. People harassing others based on ethnicity, culture, religion or similar examples will get punished for their actions. We understand that things can get heated within a competitive game and we handle cases with this in mind. We ask you to remain as civil as possible when it comes to situations like this and to treat others with respect.
 
 ---
 
