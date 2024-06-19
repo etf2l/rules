@@ -47,7 +47,7 @@ Any players with two or more active infractions who were previously banned for t
 
 ### 2.2.1. Nickname changes allowed
 
-You are allowed 4 name changes in total. A single exceptional permission will be granted to revert your name to a previous version if you have not changed your name in 2 years and that you have not enacted that right before.
+You are permitted to change your nickname once every 6 months.
 
 To change your nickname you must contact League Admins on [[ETF2L’s Discord server](https://discord.etf2l.org/)] and not be rostered in a team actively playing an ongoing competition.
 
