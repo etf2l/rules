@@ -49,7 +49,7 @@ Any players with two or more active infractions who were previously banned for t
 
 You are permitted to change your nickname once every 6 months.
 
-To change your nickname you must contact League Admins on [[ETF2L’s Discord server](https://discord.etf2l.org/)] and not be rostered in a team actively playing an ongoing competition.
+To change your nickname you must contact League Admins on [[ETF2L’s Discord server](https://discord.etf2l.org/)].
 
 Note: Nicknames must be at least 2 characters long and some characters are not allowed.
 
@@ -120,10 +120,8 @@ A player caught trying to get a false Flag/Nationality change won’t be able to
 
 A players experience is determined by their last 3 active seasons in both 6v6 and Highlander gamemodes. A season counts as a “active season” if the player played at least 3 matches of the same tier in that season.
 
-Playoffs matches in any tier count towards the tier above.
-Participating in a Grand Final of any tier, whether the player won or lost it, will automatically count as a tier above the tier of the Grand Final.
+Playoffs matches in any tier count towards the tier above. 3 playoff matches or participation in a Grand Final of any tier will automatically count the player as a tier above the tier those matches were played in. For Premiership Grand Finals, this will also count towards player experience and count as it’s own tier above Premiership.
 
-For players participating in the lowest tier of a season, all previous experience is taken into account.
+For the lowest tier played in a season, matches played from all seasons count towards player experience.
 
-Note: Cups (pre-season cups, one-day cups, nations cup etc.) do not count towards a players experience.
-Note: Highlander and 6v6 experience are valued equally between gamemodes.
+Note: Cups (pre-season cups, one-day cups, nations cup etc.) do not count towards a players experience. Highlander and 6v6 experience are valued equally between gamemodes.

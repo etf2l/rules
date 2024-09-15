@@ -19,7 +19,9 @@ If a team has already reached the maximum amount of team name changes in a compe
 
 For every match in the Premiership tier, it is mandatory to upload SourceTV demo files for all maps played.
 
-The responsibility to upload the files is on the team that owns the server or, if the server is owned by neither team, on the team that acquired the server.
+Both teams are responsible for ensuring the demos are uploaded.
+
+If a match is played on a private server, then the team who owns the private server is responsible for uploading the SourceTV demos.
 
 In case of a server technical failure backed up by evidence the demo files do not have to be uploaded.
 
