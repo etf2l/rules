@@ -86,14 +86,17 @@ A player’s experience will be determined in accordance with rule [2.7 Player E
 
 **Standard:**
 
-- In 6v6 teams have a limit of 1 point.
-- In Highlander teams have a limit of 2 points.
-
-**Breaking the rules:**
-
 - In 6v6, teams have a limit of 1 point. Premiership Grand Finalists are not allowed to join a team below Premiership as a late joiner.
 
 - In Highlander, teams have a limit of 2 points. Premiership Grand Finalists are not allowed to join a Division 1/High or below Highlander team as a late joiner on the class they played that Premiership Grand Finals on.
+
+**Breaking the rules:**
+
+- Teams breaking the skill limit by +1 will receive a Minor Warning for the first offense. Further offenses will result in a default loss.
+
+- Teams breaking the skill limit by +2 or more will have their match results reviewed. The circumstances of the rulebreak will be considered when the deterimining punishment.
+
+**Breaking the rule during playoff games will result in a default loss.**
 
 **Appeal:**
 Please contact League Admin Staff on [[ETF2L’s Discord server](https://discord.etf2l.org/)] if you need your case to be reviewed. The lengths of inactivity will be taken into consideration when making decisions.
